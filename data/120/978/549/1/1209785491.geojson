@@ -42,7 +42,7 @@
         "wk:page":"El_Clavo"
     },
     "wof:country":"VE",
-    "wof:geomhash":"f35672ea62768bbbe973494740df1fd9",
+    "wof:geomhash":"e6da74d805ff755be3c5af0bdd40145c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -66.17678000000001,
     10.22986
 ],
-  "geometry": {"coordinates":[-66.17678000000001,10.22986],"type":"Point"}
+  "geometry": {"coordinates":[-66.17678,10.22986],"type":"Point"}
 }

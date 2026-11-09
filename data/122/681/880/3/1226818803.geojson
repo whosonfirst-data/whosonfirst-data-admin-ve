@@ -67,7 +67,7 @@
         "wk:page":"Mamporal"
     },
     "wof:country":"VE",
-    "wof:geomhash":"bb20627488e65c2118a67f6dd6cb1fd9",
+    "wof:geomhash":"86155aeec9e58aeef98a144d4afb183a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,5 +93,5 @@
     -66.13044000000001,
     10.36461
 ],
-  "geometry": {"coordinates":[-66.13044000000001,10.36461],"type":"Point"}
+  "geometry": {"coordinates":[-66.13044,10.36461],"type":"Point"}
 }

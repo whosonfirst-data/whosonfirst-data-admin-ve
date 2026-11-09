@@ -42,7 +42,7 @@
         "wk:page":"El_Guapo%2C_Miranda_State"
     },
     "wof:country":"VE",
-    "wof:geomhash":"3dd317b45e0b3a3077ec986826f79c88",
+    "wof:geomhash":"a22e2a1613dcc391a6e5a424ac951285",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -65.97180999999999,
     10.14686
 ],
-  "geometry": {"coordinates":[-65.97180999999999,10.14686],"type":"Point"}
+  "geometry": {"coordinates":[-65.97181,10.14686],"type":"Point"}
 }

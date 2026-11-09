@@ -50,7 +50,7 @@
         "wk:page":"San_Fernando_de_Atabapo"
     },
     "wof:country":"VE",
-    "wof:geomhash":"e3b36d8ef12df4932a9b52a50fbd124e",
+    "wof:geomhash":"1c44c5649eb970c1a97f88ed7fb38225",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -67.70031999999999,
     4.04956
 ],
-  "geometry": {"coordinates":[-67.70031999999999,4.04956],"type":"Point"}
+  "geometry": {"coordinates":[-67.70032,4.04956],"type":"Point"}
 }

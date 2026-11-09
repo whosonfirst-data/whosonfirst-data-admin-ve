@@ -55,7 +55,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fdedf05364195beef49913ec75ee60a8",
+    "wof:geomhash":"5624045bbaecca1b0ba62490600dcb6d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -66.7445055,
     10.461669
 ],
-  "geometry": {"coordinates":[-66.7445055,10.461669],"type":"Point"}
+  "geometry": {"coordinates":[-66.744505,10.461669],"type":"Point"}
 }

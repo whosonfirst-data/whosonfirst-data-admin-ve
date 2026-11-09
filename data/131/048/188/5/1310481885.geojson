@@ -64,7 +64,7 @@
         "wk:page":"Puerto_Cumarebo"
     },
     "wof:country":"VE",
-    "wof:geomhash":"8a0dccebce091faadfe7b075ad5fe5d9",
+    "wof:geomhash":"551e601a90e38ffc909faa7186782cee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -69.35221999999999,
     11.48783
 ],
-  "geometry": {"coordinates":[-69.35221999999999,11.48783],"type":"Point"}
+  "geometry": {"coordinates":[-69.35222,11.48783],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Mucurub%C3%A1"
     },
     "wof:country":"VE",
-    "wof:geomhash":"ce7f91d07bfda139a37ae64d43e5f457",
+    "wof:geomhash":"31236f16fd5d12ccc8ee7de4ef49f004",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -70.99155999999998,
     8.70734
 ],
-  "geometry": {"coordinates":[-70.99155999999998,8.70734],"type":"Point"}
+  "geometry": {"coordinates":[-70.99156,8.70734],"type":"Point"}
 }

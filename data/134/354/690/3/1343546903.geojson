@@ -54,7 +54,7 @@
         "wk:page":"Borburata"
     },
     "wof:country":"VE",
-    "wof:geomhash":"754646a354ae6a5a2e335ab7399a080f",
+    "wof:geomhash":"654a6c64dae26b1621f923d56348161f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -67.96439000000001,
     10.44434
 ],
-  "geometry": {"coordinates":[-67.96439000000001,10.44434],"type":"Point"}
+  "geometry": {"coordinates":[-67.96439,10.44434],"type":"Point"}
 }

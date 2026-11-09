@@ -50,7 +50,7 @@
         "gn:id":3630951
     },
     "wof:country":"VE",
-    "wof:geomhash":"8f26f713cccfe4f1b2afe4211fba978c",
+    "wof:geomhash":"8f75526da22a483bc9c98c8c8ef88f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -69.23333000000001,
     8.31667
 ],
-  "geometry": {"coordinates":[-69.23333000000001,8.31667],"type":"Point"}
+  "geometry": {"coordinates":[-69.23333,8.31667],"type":"Point"}
 }

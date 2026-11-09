@@ -54,7 +54,7 @@
         "wk:page":"La_Plaza_de_Paraguach%C3%AD"
     },
     "wof:country":"VE",
-    "wof:geomhash":"6c057a6725a482b768792c0ad6a69eff",
+    "wof:geomhash":"d97882cc88df2a67eae16419632d522f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -63.85536999999999,
     11.10783
 ],
-  "geometry": {"coordinates":[-63.85536999999999,11.10783],"type":"Point"}
+  "geometry": {"coordinates":[-63.85537,11.10783],"type":"Point"}
 }

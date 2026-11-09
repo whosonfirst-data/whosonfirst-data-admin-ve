@@ -67,7 +67,7 @@
         "wk:page":"Maroa%2C_Amazonas"
     },
     "wof:country":"VE",
-    "wof:geomhash":"1ccdbf78de0e479b0ed0f88deb244516",
+    "wof:geomhash":"5d9fd59edd3dd5acb36f2b0d5b7f0ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,5 +93,5 @@
     -67.55991999999999,
     2.71861
 ],
-  "geometry": {"coordinates":[-67.55991999999999,2.71861],"type":"Point"}
+  "geometry": {"coordinates":[-67.55992,2.71861],"type":"Point"}
 }

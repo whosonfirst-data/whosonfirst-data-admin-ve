@@ -64,7 +64,7 @@
         "wk:page":"Camatagua"
     },
     "wof:country":"VE",
-    "wof:geomhash":"a3bf8da749e974b0ba95f91482465969",
+    "wof:geomhash":"9306eb427302572fd0423125d33e021c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -66.90619000000001,
     9.78762
 ],
-  "geometry": {"coordinates":[-66.90619000000001,9.78762],"type":"Point"}
+  "geometry": {"coordinates":[-66.90619,9.78762],"type":"Point"}
 }

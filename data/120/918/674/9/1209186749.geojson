@@ -51,7 +51,7 @@
         "wk:page":"Curiepe"
     },
     "wof:country":"VE",
-    "wof:geomhash":"531d9ad96a4eee061dc74734eeb32ef5",
+    "wof:geomhash":"92fb7816a81532fb33829603150f4584",
     "wof:hierarchy":[
         {
             "country_id":85632317,
@@ -74,5 +74,5 @@
     -66.16781999999999,
     10.47467
 ],
-  "geometry": {"coordinates":[-66.16781999999999,10.47467],"type":"Point"}
+  "geometry": {"coordinates":[-66.16782,10.47467],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Aragua_de_Barcelona"
     },
     "wof:country":"VE",
-    "wof:geomhash":"74e6e405d4d3ef6b5da1d69e5b9661ed",
+    "wof:geomhash":"92dee6bb500a1ae91a2c1f28d14a5ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,5 +79,5 @@
     -64.82928000000001,
     9.45588
 ],
-  "geometry": {"coordinates":[-64.82928000000001,9.45588],"type":"Point"}
+  "geometry": {"coordinates":[-64.82928,9.45588],"type":"Point"}
 }

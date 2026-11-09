@@ -57,7 +57,7 @@
         "wk:page":"Casigua-El_Cubo"
     },
     "wof:country":"VE",
-    "wof:geomhash":"9a478d7d612c64759838194958820fae",
+    "wof:geomhash":"a925c71c6c6f189f48d5ac630816ac75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,5 +83,5 @@
     -72.51966999999998,
     8.74493
 ],
-  "geometry": {"coordinates":[-72.51966999999998,8.74493],"type":"Point"}
+  "geometry": {"coordinates":[-72.51967,8.74493],"type":"Point"}
 }

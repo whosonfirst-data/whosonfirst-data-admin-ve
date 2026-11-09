@@ -45,7 +45,7 @@
         "wk:page":"Cumbo"
     },
     "wof:country":"VE",
-    "wof:geomhash":"206b2c86fe192f3f9517b6afdb36911b",
+    "wof:geomhash":"9b934c3a13611810615e8529cfa6a0a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,5 +71,5 @@
     -66.08724000000001,
     10.22904
 ],
-  "geometry": {"coordinates":[-66.08724000000001,10.22904],"type":"Point"}
+  "geometry": {"coordinates":[-66.08724,10.22904],"type":"Point"}
 }

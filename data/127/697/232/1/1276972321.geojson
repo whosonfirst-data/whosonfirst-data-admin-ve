@@ -71,7 +71,7 @@
         "wk:page":"Arismendi_Municipality%2C_Barinas"
     },
     "wof:country":"VE",
-    "wof:geomhash":"4fe12c84e35d8b025b72df4e1d3973c2",
+    "wof:geomhash":"be590eb7ca0af6cd1185d45711460e11",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,5 +97,5 @@
     -68.36995999999999,
     8.47974
 ],
-  "geometry": {"coordinates":[-68.36995999999999,8.47974],"type":"Point"}
+  "geometry": {"coordinates":[-68.36996,8.47974],"type":"Point"}
 }

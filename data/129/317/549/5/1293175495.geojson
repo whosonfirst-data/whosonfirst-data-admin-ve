@@ -61,7 +61,7 @@
         "wk:page":"Araya%2C_Venezuela"
     },
     "wof:country":"VE",
-    "wof:geomhash":"6824718c35fcad92b4b68dd706ba368a",
+    "wof:geomhash":"b8c07c91057c41687dbc322cd944bca6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -64.25825999999999,
     10.57973
 ],
-  "geometry": {"coordinates":[-64.25825999999999,10.57973],"type":"Point"}
+  "geometry": {"coordinates":[-64.25826,10.57973],"type":"Point"}
 }

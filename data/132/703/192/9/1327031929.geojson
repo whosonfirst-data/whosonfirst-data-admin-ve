@@ -58,7 +58,7 @@
         "wk:page":"Clarines"
     },
     "wof:country":"VE",
-    "wof:geomhash":"9c03584bd63d5623c6cd5b503e1bc6c1",
+    "wof:geomhash":"5a60bc43e6ace43c2b7ecfcbf00464b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -65.16516999999999,
     9.93991
 ],
-  "geometry": {"coordinates":[-65.16516999999999,9.93991],"type":"Point"}
+  "geometry": {"coordinates":[-65.16517,9.93991],"type":"Point"}
 }

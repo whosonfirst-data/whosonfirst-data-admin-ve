@@ -45,7 +45,7 @@
         "wk:page":"Mavaca_River"
     },
     "wof:country":"VE",
-    "wof:geomhash":"8856a1b66ce91e499aac80ef33845dcf",
+    "wof:geomhash":"6b7927c4cfc8e45847d5f2f5d6b75227",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,5 +71,5 @@
     -65.24486999999999,
     2.49582
 ],
-  "geometry": {"coordinates":[-65.24486999999999,2.49582],"type":"Point"}
+  "geometry": {"coordinates":[-65.24487,2.49582],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Bruzual"
     },
     "wof:country":"VE",
-    "wof:geomhash":"b4155ac408ae19933d8f78b26b21b2c2",
+    "wof:geomhash":"73b30d94f86f762aac8fd056b6fe79e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -69.33256999999999,
     8.05052
 ],
-  "geometry": {"coordinates":[-69.33256999999999,8.05052],"type":"Point"}
+  "geometry": {"coordinates":[-69.33257,8.05052],"type":"Point"}
 }

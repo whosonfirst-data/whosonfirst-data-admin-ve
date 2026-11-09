@@ -118,5 +118,5 @@
     -64.15,
     9.81667
 ],
-  "geometry": {"coordinates":[-64.15000000000001,9.81667],"type":"Point"}
+  "geometry": {"coordinates":[-64.15,9.81667],"type":"Point"}
 }

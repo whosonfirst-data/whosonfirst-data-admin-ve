@@ -99,7 +99,7 @@
     },
     "wof:country":"VE",
     "wof:created":1459010047,
-    "wof:geomhash":"7057a197ad4f7d4297bba4c750707743",
+    "wof:geomhash":"84d02174b4053da21093d78a82f36e08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,5 +125,5 @@
     -66.53333,
     10.0
 ],
-  "geometry": {"coordinates":[-66.53333000000001,10.0],"type":"Point"}
+  "geometry": {"coordinates":[-66.53333,10],"type":"Point"}
 }
