@@ -66,12 +66,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Cojedes"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u79d1\u8d6b\u5fb7\u65af\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u79d1\u8d6b\u5fb7\u65af\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u8d6b\u5fb7\u65af"
     ],
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":1226739679,
-    "wof:lastmodified":1636506342,
+    "wof:lastmodified":1794999722,
     "wof:name":"Cojedes",
     "wof:parent_id":1108694089,
     "wof:placetype":"locality",
